@@ -3,8 +3,6 @@ Irei documentar nesse repositório os códigos de minha autoria. Embora simples,
 
 # 🧪 Code Sandbox & Laboratório de Estudos
 
-🇺🇸 [Read in English](#english-version) | 🇧🇷 [Ler em Português](#versão-em-português)
-
 ---
 
 ### 🇧🇷 Versão em Português
